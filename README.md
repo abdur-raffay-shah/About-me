@@ -24,7 +24,7 @@
 
 I'm an A-Level student in the UK with a strong interest in **Maths, data science, data analytics and computer science**.
 
-I enjoy working with data from the point it is collected through to cleaning, transformation, storage and analysis. I'm currently developing my skills through practical projects using **Python, pandas and SQL**, while building stronger foundations for data science and machine learning.
+I enjoy working with data from the point it is collected through to cleaning, transformation, storage and analysis. I'm currently developing my skills through practical projects using **Python, pandas and SQL**, while building stronger foundations for data science.
 
 - 🎓 Studying **Mathematics, Further Mathematics and Computer Science**
 - 🐍 Completed **IBM: Python for Data Science, AI and Development**
