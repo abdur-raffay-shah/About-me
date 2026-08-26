@@ -1,68 +1,109 @@
-<h1 align="center">Hi there! 👋 I'm Abdur Raffay</h1>
-<h3 align="center">Aspiring AI/ML Engineer | Passionate about Computer Science from the UK</h3>
+<h1 align="center">Hi, I'm Abdur Raffay </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500"/>
-</div>
+<h3 align="center">
+  Aspiring Data Scientist & Data Analyst
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdurraffayshah&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/abdurraffayshah?label=Followers" alt="GitHub Followers"/>
+  Building projects with Python, SQL and data to solve real problems.
 </p>
 
-<h2>A Little Bit About Me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdur-raffay-shah-135103244/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdur%20Raffay%20Shah-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/a_raffay">
+    <img src="https://img.shields.io/badge/LeetCode-a__raffay-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=abdurraffayshah&style=flat-square&label=Profile+Views" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm an A-Level student in the UK with a strong interest in **Maths, data science, data analytics and computer science**.
+
+I enjoy working with data from the point it is collected through to cleaning, transformation, storage and analysis. I'm currently developing my skills through practical projects using **Python, pandas and SQL**, while building stronger foundations for data science and machine learning.
+
+- 🎓 Studying **Mathematics, Further Mathematics and Computer Science**
+- 🐍 Completed **IBM: Python for Data Science, AI and Development**
+- 📊 Developing skills in **data analysis, ETL, SQL and data visualisation**
+- 🗄️ Working with **relational databases and SQLite**
+- 🧠 Practising **algorithms and problem solving**
+- 📈 Interested in the applications of data within **technology and finance**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Databases
+
 <p>
-  I’m Abdur Raffay, an aspiring AI/ML engineer driven by a deep passion for computer science. I enjoy working on projects that push the boundaries of technology, particularly in artificial intelligence and machine learning. Whether it's coding, problem-solving, or exploring new advancements in tech, I’m always eager to learn and grow. My goal is to contribute to innovative solutions that make a real-world impact.
+  <img src="https://skillicons.dev/icons?i=python,sqlite,html,css" />
 </p>
 
-- 🔭 I’m currently working on **AI and Machine Learning Projects and normal Python projects**
-- 🌱 I’ve recently completed [**CS50P by Harvard**](https://cs50.harvard.edu/python/2022/)
-- 💬 Ask me about **Python, AI/ML, and Algorithms**
-- 📫 How to reach me: **syedabdurraffay@outlook.com**
+### Data & Analytics
 
-<h3 align="center">🌐 Connect with me 🌐</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/abdur-raffay-shah" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdur%20Raffay%20Shah-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://www.leetcode.com/a_raffay" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-a_raffay-orange?style=for-the-badge&logo=leetcode"/>
-  </a>
-  <a href="https://discord.gg/4SFRES74" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-4SFRES74-7289DA?style=for-the-badge&logo=discord"/>
-  </a>
-</p>
-
-<h3 align="center">⚙️ Languages & Tools ⚙️</h3>
-<p align="center">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
-  </a>
-</p>
-
-<h3>📂 Projects</h3>
 <p>
-  
-  - <a href="https://github.com/abdurraffayshah/Journal-" target="_blank">**Journal**</a> - A Python project to manage personal journal entries.
-  
-  - <a href="https://github.com/abdurraffayshah/Homework-Manager" target="_blank">**Homework Manager**</a> - A Python-based application to track and manage homework assignments.
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
 
-<h3 align="center">👨‍💻 What I’m Currently Learning 👨‍💻</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20&%20ML-Scikit--Learn%2C%20TensorFlow-yellow?style=for-the-badge&logo=artstation"/>
-  <img src="https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-LeetCode-brightgreen?style=for-the-badge&logo=leetcode"/>
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-<h3 align="center">📊 GitHub Stats 📊</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdurraffayshah&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurraffayshah&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="400"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdurraffayshah&theme=radical&margin-w=15" alt="Trophies" width="500"/>
-</p>
+## 🚀 Featured Project
+
+### 🏦 [Banks ETL Pipeline](https://github.com/abdurraffayshah/banks-etl-pipeline)
+
+An **ETL pipeline built with Python** that extracts data on leading global banks, transforms financial data into multiple currencies and stores the processed results for analysis.
+
+**Tech:** `Python` `Pandas` `BeautifulSoup` `SQL` `SQLite` `NumPy`
+
+#### Key Features
+
+- Extracts banking data from the web using **BeautifulSoup**
+- Cleans and transforms extracted data using **pandas**
+- Converts financial values from USD into **GBP, EUR and INR**
+- Stores processed data in both **CSV and SQLite**
+- Executes **SQL queries** against the generated database
+- Records pipeline operations using timestamped logging
+
+➡️ **[View the project](https://github.com/abdurraffayshah/banks-etl-pipeline)**
+
+---
+
+## 📂 Other Projects
+
+### 📚 [Homework Manager](https://github.com/abdurraffayshah/Homework-Manager)
+
+A Python application designed to help organise and manage homework assignments.
+
+### 📝 [Journal](https://github.com/abdurraffayshah/Journal-)
+
+A Python application for creating and managing personal journal entries.
+
+---
+
+## 📚 Currently Developing
+
+```text
+Python & Pandas       ███████████████░░░
+SQL & Databases       ████████████░░░░░░
+Data Analysis         ████████████░░░░░░
+Algorithms & DSA      █████████░░░░░░░░░
+Machine Learning      ██████░░░░░░░░░░░░
+```
+
+My current focus is developing strong foundations in **data analysis, Python and SQL** before progressing further into machine learning.
+
+---
+
